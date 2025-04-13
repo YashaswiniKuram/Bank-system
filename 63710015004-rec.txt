@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2023-04-22] [12:53:58]       5000              5000
